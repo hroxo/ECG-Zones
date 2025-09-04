@@ -4,6 +4,8 @@ This project uses an **Arduino**, an **AD8232 ECG module**, and a **16x2 LCD (HD
 
 It is a simple but robust implementation that includes adaptive calibration, lead-off detection, and smoothed BPM values for more stable readings.
 
+### Check-out a video demo 👇🏻
+https://youtube.com/shorts/2aTkwlv1664?si=z3m-hgHZYgVNGOnP
 ---
 
 ## Features
