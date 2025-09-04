@@ -70,5 +70,5 @@ It is a simple but robust implementation that includes adaptive calibration, lea
 2. Connect your Arduino board via USB.  
 3. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/hroxo/ECG-Zones.git
+   cd ECG-Zones
